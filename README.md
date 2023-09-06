@@ -44,9 +44,10 @@ Master programme **Technical Physics** at the [Technical University of Vienna](h
 - Graduated with distinction
 <br><br>
 
-*September 2016 - September 2019*
+*September 2016 - September 2019* <br>
 Bachelor programme **Technical Physics** at the [Technical University of Vienna](https://www.tuwien.at/) <br>
 *B.Sc.* <br>
 
 - Bachelor Thesis: *Characterization of a Single Molecule Fluorescence Microscope*
 - graduated with distinction
+<br><br>
