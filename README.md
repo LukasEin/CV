@@ -35,3 +35,18 @@ under the supervision of Prof. Karsten Held and Univ. Ass. Anna Kauch <br>
 *September 2019 - October 2022* <br>
 Master programme **Technical Physics** at the [Technical University of Vienna](https://www.tuwien.at/) <br>
 *Dipl. Ing.* (equivalent to *M.Sc.*) <br>
+
+- Master Thesis: *Group equivariant neural networks for a scalar field theory*
+  - under the supervision of Prof. Andreas Ipp
+  - Links [Code (GitHub)](https://github.com/LukasEin/scalar_ml_reflection), [Thesis](https://doi.org/10.34726/hss.2022.97866)
+  - Methods: *Machine Learning*, *Neural Networks*, *Group Theory*
+  - Technologies: *Python*, *Pytorch*, *Optuna*
+- Graduated with distinction
+<br><br>
+
+*September 2016 - September 2019*
+Bachelor programme **Technical Physics** at the [Technical University of Vienna](https://www.tuwien.at/) <br>
+*B.Sc.* <br>
+
+- Bachelor Thesis: *Characterization of a Single Molecule Fluorescence Microscope*
+- graduated with distinction
