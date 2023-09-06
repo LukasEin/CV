@@ -16,4 +16,4 @@ under supervision of Prof. Bingqing Cheng <br>
 *January 2023 - February 2023* <br>
 **Project Thesis** at the [Technical University of Vienna](https://www.tuwien.at/) <br>
 under the Supervision of Prof. Jan Kunes <br>
-- A study of DC optical conductivity in ferromagnetic SrCoO$_3$
+- A study of DC optical conductivity in ferromagnetic SrCoO$$_3$$
